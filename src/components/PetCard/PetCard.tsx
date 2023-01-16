@@ -38,7 +38,7 @@ export default class PetCard extends React.Component<PetCardProps, PetCardState>
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
                                 <div>
-                                    Location: {Globals.Expeditions[this.props.pet.location]} <br />
+                                    Location: {this.props.pet.location.startsWith('E') ? Globals.Expeditions[this.props.pet.location] : this.props.pet.location} <br />
                                     Type: {this.props.pet.type}
                                 </div>
                                 <Divider>

@@ -31,7 +31,7 @@ export default class PetCardDialog extends React.Component<PetCardDialogProps, a
                         <CardContent>
                             <Typography variant="body2" color="text.secondary">
                                 <div>
-                                    Location: {Globals.Expeditions[this.props.selectedPet.location]} <br />
+                                    Location: {this.props.selectedPet.location.startsWith('E') ? Globals.Expeditions[this.props.selectedPet.location] : this.props.selectedPet.location} <br />
                                     Type: {this.props.selectedPet.type} <br />
                                     Drop Chance: 1/{(this.props.selectedPet.pity/4).toLocaleString()} <br />
                                     Base Pity: {(this.props.selectedPet.pity/2).toLocaleString()} {this.props.selectedPet.location.startsWith('E') ? 'hrs.':''}
