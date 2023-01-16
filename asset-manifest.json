@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fapi-pets/static/css/main.2caefd40.css",
+    "main.js": "/fapi-pets/static/js/main.f6b37a38.js",
+    "static/media/Aphrodite.png": "/fapi-pets/static/media/Aphrodite.ef1609cec657ae5d2a2d.png",
+    "static/media/Nuts.png": "/fapi-pets/static/media/Nuts.ed47b376c9c90d47ca63.png",
+    "static/media/Hiko.png": "/fapi-pets/static/media/Hiko.0bb0f24f8fe1ed87d0e2.png",
+    "static/media/Nidhogg.png": "/fapi-pets/static/media/Nidhogg.73eb5fe0390739a07b63.png",
+    "static/media/Nucifera.png": "/fapi-pets/static/media/Nucifera.4a9b50d29c24875873f2.png",
+    "static/media/Darti.png": "/fapi-pets/static/media/Darti.9905e781bbbe740e6763.png",
+    "static/media/Tsukuyomi.png": "/fapi-pets/static/media/Tsukuyomi.49d4abadb0572d32177a.png",
+    "static/media/Cocorico.png": "/fapi-pets/static/media/Cocorico.24e6ea019e6ef9513561.png",
+    "static/media/Seth.png": "/fapi-pets/static/media/Seth.58a0206d2e163e80990c.png",
+    "static/media/The Governess.png": "/fapi-pets/static/media/The Governess.786668635e8bf30cc4fb.png",
+    "static/media/Vidar.png": "/fapi-pets/static/media/Vidar.6f2fe465ad327602e9bc.png",
+    "static/media/Murphy.png": "/fapi-pets/static/media/Murphy.1ac9e87811c90a9f0d98.png",
+    "static/media/Trevor.png": "/fapi-pets/static/media/Trevor.430251e7f8ef44c2cd3a.png",
+    "static/media/Julian.png": "/fapi-pets/static/media/Julian.50e673ef772eb46a47e3.png",
+    "static/media/Fujin.png": "/fapi-pets/static/media/Fujin.142a0d7825c5c831ff21.png",
+    "static/media/Zac.png": "/fapi-pets/static/media/Zac.e2862fed84c328e9a0d2.png",
+    "static/media/Fafnir.png": "/fapi-pets/static/media/Fafnir.be69bee34246807ada8f.png",
+    "static/media/Dangun.png": "/fapi-pets/static/media/Dangun.d4cc8af4595fcffad0d8.png",
+    "static/media/Suijin.png": "/fapi-pets/static/media/Suijin.2d02f7a0196b85b580ce.png",
+    "static/media/Tango.png": "/fapi-pets/static/media/Tango.6ed572a0e6953d558e83.png",
+    "index.html": "/fapi-pets/index.html",
+    "main.2caefd40.css.map": "/fapi-pets/static/css/main.2caefd40.css.map",
+    "main.f6b37a38.js.map": "/fapi-pets/static/js/main.f6b37a38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2caefd40.css",
+    "static/js/main.f6b37a38.js"
+  ]
+}
