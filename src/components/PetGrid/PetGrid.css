@@ -1,0 +1,11 @@
+.pet-grid {
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .filter-controls {
+        flex-direction: column !important;
+        align-items: baseline !important;
+    } 
+}

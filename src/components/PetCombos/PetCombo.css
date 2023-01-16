@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    .combo-box,
+    .combo-plus-icon {
+        display: none !important;
+    }
+
+    .combo-card {
+        width: 75px !important;
+        min-width: 75px !important;
+    }
+}
