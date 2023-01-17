@@ -45,7 +45,7 @@ export default abstract class Globals {
         drop_chance: 'Drop & Bonuses Cap',
         potatoes_spawn: 'Spawn More Potatoes',
         potatoes_per_wave: 'Fewer Potatoes per Wave',
-        potatoes_spawn_speed: 'Fewer Potatoes per Wave',
+        potatoes_spawn_speed: 'Potato Spawn Speed',
         expedition_reward: 'Expedition Reward',
         expedition_damage: 'Pet Damage',
         breed_timer: 'Breeding Timer',
