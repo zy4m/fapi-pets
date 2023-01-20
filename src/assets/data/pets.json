@@ -486,7 +486,7 @@
             "name": "Tock",
             "location": "5-7",
             "type": "Ground",
-            "rarity": 1,
+            "rarity": 3,
             "pity": 25000000,
             "equipped": {
                 "bonuses": {
@@ -804,7 +804,7 @@
             "name": "Garuda",
             "location": "E5R",
             "type": "Air",
-            "rarity": 4,
+            "rarity": 3,
             "pity": 10000,
             "equipped": {
                 "bonuses": {
@@ -936,7 +936,7 @@
             "name": "Olaf",
             "location": "E8R",
             "type": "Ground",
-            "rarity": 2,
+            "rarity": 3,
             "pity": 8000,
             "equipped": {
                 "bonuses": {
