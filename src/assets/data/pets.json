@@ -299,7 +299,7 @@
             "pity": 10000000,
             "equipped": {
                 "bonuses": {
-                    "fermenting_exp": 0.001,
+                    "poop": 0.005,
                     "milk": 0.0025
                 }
             },
